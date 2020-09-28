@@ -12,6 +12,7 @@ For ***mostly or completely random*** ata, simple time series forecasting models
 
 It is a ***last observation carried forward*** method. It projects the last known observation into thee future. 
 For Example, to forecast Feb 2018, we usee the value of last observed Feb 2017.
+This method works **remarkably well** for many economic and financial time series
 
 ## Average Method
 
