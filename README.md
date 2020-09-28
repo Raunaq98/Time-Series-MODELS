@@ -21,3 +21,9 @@ It calculates the mean of the datapoint and projects it into the future.
 ## Drift Method
 
 It calculates the difference between the first and last observation and projects it into the future.
+
+# Akaike Information Criterion (AIC)
+
+Akaike’s information criterion (AIC) compares the quality of a set of statistical models to each other. The AIC will take each model and rank them from best to worst. The “best” model will be the one that neither under-fits nor over-fits.
+
+**Min AIC is the score for the “best” model.**
